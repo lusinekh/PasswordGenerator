@@ -7,7 +7,7 @@ With this program you can create your own password, it consists of NewPindigits 
 
 ```c#
 
-       namespace Passwordgeneratortest
+     namespace Passwordgeneratortest
 	{
 	class Program
 	{
